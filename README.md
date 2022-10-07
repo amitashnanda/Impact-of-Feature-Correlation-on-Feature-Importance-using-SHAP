@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-The datset is private. It consists of data collected and processed from patients in the trial with UCSD Health. 
+The dataset is private. It consists of data collected and processed from patients in the trial with UCSD Health. 
 
 ## Running
 For a local installation, make sure you have pip installed and run: 
